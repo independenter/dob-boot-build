@@ -53,7 +53,7 @@
 		<couchbase-cache-client.version>2.1.0</couchbase-cache-client.version>
 		<dependency-management-plugin.version>1.0.8.RELEASE</dependency-management-plugin.version>
 		<db2-jdbc.version>11.5.0.0</db2-jdbc.version>
-		<derby.version>10.14.2.0</derby.version>
+		<derby.version>10.17.1.0</derby.version>
 		<dropwizard-metrics.version>4.1.0</dropwizard-metrics.version>
 		<ehcache.version>2.10.6</ehcache.version>
 		<ehcache3.version>3.8.0</ehcache3.version>
